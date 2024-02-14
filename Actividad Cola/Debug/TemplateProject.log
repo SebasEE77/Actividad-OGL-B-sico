@@ -1,0 +1,12 @@
+﻿cl : línea de comandos  warning D9035: La opción 'Gm' está desusada y se quitará en próximas versiones
+  main.cpp
+C:\Users\Sala\Documents\Actividad\main.cpp(63,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Sala\Documents\Actividad\main.cpp(64,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Sala\Documents\Actividad\main.cpp(65,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Sala\Documents\Actividad\main.cpp(66,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Sala\Documents\Actividad\main.cpp(67,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Sala\Documents\Actividad\main.cpp(68,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Sala\Documents\Actividad\main.cpp(70,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Sala\Documents\Actividad\main.cpp(71,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+C:\Users\Sala\Documents\Actividad\main.cpp(72,1): warning C4305: 'argumento': truncamiento de 'double' a 'float'
+  TemplateProject.vcxproj -> C:\Users\Sala\Documents\Actividad\Debug\TemplateProject.exe
